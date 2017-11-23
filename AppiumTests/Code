@@ -1,0 +1,1 @@
+"test": " osascript -e 'tell application \"Terminal\" to do script \"/Users/snair/Artifacts/Projects/AppiumTAF/node_modules/.bin/appium\"' > /dev/null & mocha --opts mocha.opts AppiumTests/*.js",
